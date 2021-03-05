@@ -1,4 +1,4 @@
-FROM node:14.15.4-alpine3.12
+FROM ruby: 3.0.0-alpine3.13
 
 WORKDIR /usr/src/app/
 
