@@ -7,4 +7,4 @@ RUN npm install
 
 EXPOSE 8080
 
-CMD ["node", "/usr/src/app/details.rb", "8080"]
+CMD ["ruby", "/usr/src/app/details.rb", "8080"]
