@@ -1,5 +1,5 @@
 services:
-  ratings:
+  details:
     build: .
     image: ghcr.io/worawit4516/details:dev
     ports:
